@@ -2,7 +2,7 @@ import "./Footer.css";
 
 export default function Footer() {
     return (
-      <div className="footer">
+      <div className="footer"><b>
         This weather app project was coded by{" "}
         <a
           href="https://www.linkedin.com/in/susanne-van-oosterom-96a6991b2/"
@@ -29,7 +29,7 @@ export default function Footer() {
           title="link to netlify page"
         >
           Netlify
-        </a>
+        </a></b>
       </div>
     );
   }

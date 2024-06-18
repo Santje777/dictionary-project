@@ -1,5 +1,13 @@
 .Dictionary {
     background: linear-gradient(purple, blue);
+    border-radius: 150px;
     color: whitesmoke;
     padding: 10px;
+    margin: 40px auto;
 }
+
+.Results { h2 {
+    font-size: 60px;
+    color: yellowgreen;
+    padding: 25px;
+  }}

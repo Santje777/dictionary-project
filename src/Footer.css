@@ -2,8 +2,10 @@
     display: block;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: rgb(92, 1, 1);
     border-radius: 10px;
-    max-width: 600px;
+    max-width: 700px;
     background: linear-gradient(red, yellow);
     margin: 10px auto;
     padding: 10px;
