@@ -1,12 +1,10 @@
 .App {
+  background: linear-gradient(yellow, green);
   text-align: center;
+  padding: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
+.App {
+  h1 {
+    color: purple;}
 }

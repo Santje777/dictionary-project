@@ -1,0 +1,14 @@
+.footer {
+    display: block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    max-width: 600px;
+    background: linear-gradient(red, yellow);
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.footer {
+    a {color: purple;}
+}
