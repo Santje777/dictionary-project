@@ -4,12 +4,11 @@
   padding: 30px;
 }
 
-.App {
-  h1 {
-    color: purple;}
-}
+h1 {
+  color: purple;}
 
-.App ul {
+ul {
   list-style-type: value;
   list-style-position: inside;
 }
+
