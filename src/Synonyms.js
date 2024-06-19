@@ -3,7 +3,7 @@ export default function Synonyms(props){
 
     return(
         <div className="Synonyms">
-            <strong>Syonym(s):</strong>
+            <strong>Synonym(s):</strong>
         <ul>
             {props.synonyms.map(function (synonym, index) {
                 return(

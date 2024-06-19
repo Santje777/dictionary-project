@@ -1,24 +1,51 @@
 .Dictionary {
-    background: linear-gradient(purple, blue);
+    background: linear-gradient(rgb(99, 4, 99),rgb(29, 77, 150));
     border-radius: 150px;
     color: whitesmoke;
-    padding: 10px;
+    padding: 30px;
+    padding-top: 50px;
     margin: 40px auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.9);
 }
 
-.Results{ h2 {
-    font-size: 60px;
+input {
+  width: 70%;
+padding: 15px;
+text-align: center;
+font-size: 40px;
+border: 5px solid;
+border-color: rgb(79, 90, 138);
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+}
+
+.Results {h2 {
     color: yellowgreen;
-    padding-top: 20px;
   }}
 
 .Results{ h3 {
-    color: yellow;
+    color: rgb(250, 250, 141);
   }
+  }
+
+Section {
+  display: block;  
+  margin: auto;
+  background: linear-gradient(lightblue, blue);
+    padding: 15px;
+    max-width: 300px;
+    margin-bottom: 50px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
   }
 
 .Phonetic {
     font-size: 30px;
     padding-bottom: 40px;
     color: rgb(196, 204, 88);
+  }
+
+  .Synonyms {
+    padding-left: 30px;
+    padding-top: 10px;
+    text-align: left;
   }

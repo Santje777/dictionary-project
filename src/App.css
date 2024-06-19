@@ -1,11 +1,18 @@
-.App {
-  background: linear-gradient(yellow, green);
+body {
+  background: linear-gradient(yellow, yellowgreen);
   text-align: center;
   padding: 30px;
 }
 
 h1 {
-  color: purple;}
+  color: purple;
+font-size: 70px;}
+
+h2 {
+  font-size: 60px;
+  color:aqua;
+  padding: 20px;
+}
 
 ul {
   list-style-type: value;
