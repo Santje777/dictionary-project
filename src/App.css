@@ -8,3 +8,8 @@
   h1 {
     color: purple;}
 }
+
+.App ul {
+  list-style-type: value;
+  list-style-position: inside;
+}
