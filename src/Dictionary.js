@@ -52,7 +52,7 @@ export default function Dictionary (props) {
         <div className="for-example">
         <b>For example: drop, light, flower, communication</b>
         <br />
-        <i>(NB: this app only shows your word if the app knows the word, otherwise refresh the site. 🔄 At default this site shows the word "rain".)</i>
+        <i>(NB: this app only shows your word if the app knows the word, otherwise refresh the page. 🔄 At default this site shows the word "rain".)</i>
         </div>
         <Photos photos={photos} />
         <Results results={results} />
