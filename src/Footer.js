@@ -3,7 +3,7 @@ import "./Footer.css";
 export default function Footer() {
     return (
       <div className="footer"><b>
-        This weather app project was coded by{" "}
+        🔥This weather app project was coded by{" "}
         <a
           href="https://www.linkedin.com/in/susanne-van-oosterom-96a6991b2/"
           target="_blank"
@@ -28,8 +28,8 @@ export default function Footer() {
           rel="noopener noreferrer"
           title="link to netlify page"
         >
-          Netlify
-        </a></b>
+          Netlify 
+        </a>🔥</b>
       </div>
     );
   }
