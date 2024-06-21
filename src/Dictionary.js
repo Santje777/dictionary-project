@@ -54,8 +54,8 @@ export default function Dictionary (props) {
         <br />
         <i>(NB: this app only shows your word if the app knows the word, otherwise refresh the site. 🔄 At default this site shows the word "rain".)</i>
         </div>
-        <Results results={results} />
         <Photos photos={photos} />
+        <Results results={results} />
         </div>)} else { 
             load(); 
             return("Loading")}

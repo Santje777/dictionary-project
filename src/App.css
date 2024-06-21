@@ -19,3 +19,8 @@ ul {
   list-style-position: inside;
 }
 
+.Photos img {
+  border-radius: 8px;
+  width: 100%;
+  margin-bottom: 15px;
+}
