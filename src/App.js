@@ -10,7 +10,7 @@ export default function App() {
         <h1>Welcome to Susannes dictionary app 🌈🌞</h1>
       </header>
       <main>
-        <Dictionary defaultKeyword="drop" />
+        <Dictionary defaultKeyword="rain" />
       </main>
       <footer className="text-center">
         <Footer />
